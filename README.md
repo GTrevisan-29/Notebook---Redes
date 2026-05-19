@@ -19,7 +19,8 @@ Explicações sobre protocolos de rede
 Auxílio em estudos para cursos e certificações
 Respostas organizadas e passo a passo
 Exemplos práticos e analogias simples
-🖧 Conteúdos Abordados
+
+Conteúdos Abordados
 Fundamentos de Rede
 LAN, WAN, MAN e WLAN
 Topologias de rede
@@ -51,6 +52,4 @@ Treinamento técnico
 Introdução à administração de redes
 Apoio para laboratórios e servidores locais
 Revisão para certificações de TI
-👨‍💻 Autor
 
-Desenvolvido por Guilherme Trevisan.
