@@ -1,55 +1,51 @@
-# Notebook---Redes
-Um assistente básico que ajuda em requisitos de redes. Des de uma topologia, quando fundamentos de modelos OSI e TCP/IP
 
-Agente de Fundamentos de Redes — NotebookLM
+# Prompt
 
-Projeto desenvolvido utilizando o NotebookLM da Google com foco em ensino, suporte e explicação de conceitos fundamentais de Redes de Computadores.
+Agente especializado em Fundamentos de Redes de Computadores desenvolvido no NotebookLM da Google, projetado para auxiliar no aprendizado técnico e na compreensão de infraestrutura de redes. O agente atua como um tutor inteligente, explicando conceitos essenciais como protocolos de comunicação, endereçamento IP, modelo OSI, roteadores, switches, segurança de rede e diagnóstico de conectividade.
 
-Sobre o Projeto
+O projeto foi criado com foco educacional e suporte técnico básico, oferecendo respostas organizadas, exemplos práticos e linguagem adaptada para diferentes níveis de conhecimento. Seu objetivo é facilitar o aprendizado de redes de computadores de forma clara, didática e aplicada ao contexto corporativo e de servidores.
 
-Este agente foi criado para atuar como um assistente técnico educacional, auxiliando usuários no aprendizado de redes de computadores de maneira prática, didática e organizada.
+Tecnologias e conceitos abordados:
 
-O objetivo principal é simplificar conceitos técnicos relacionados à infraestrutura de rede, comunicação entre dispositivos e fundamentos de servidores, tornando o conteúdo acessível tanto para iniciantes quanto para usuários intermediários.
+* Fundamentos de Redes
+* TCP/IP e Modelo OSI
+* IPv4 e IPv6
+* DNS, DHCP e Gateway
+* Segurança básica de redes
+* Infraestrutura de servidores
+* Diagnóstico e troubleshooting
+* Redes locais e corporativas
+* NotebookLM (Google AI)
+
+# Descrição
+
+Projeto desenvolvido no NotebookLM da Google com foco em ensino e suporte sobre Redes de Computadores.
+
+Sobre
+
+O agente atua como um assistente educacional, explicando conceitos fundamentais de redes de forma simples, prática e organizada, auxiliando estudantes e iniciantes na área de TI.
 
 Funcionalidades
-Explicação de conceitos de redes
+
+Explicação de fundamentos de redes
 Suporte básico para troubleshooting
-Introdução à infraestrutura de servidores
-Explicações sobre protocolos de rede
-Auxílio em estudos para cursos e certificações
-Respostas organizadas e passo a passo
-Exemplos práticos e analogias simples
-
-Conteúdos Abordados
-Fundamentos de Rede
-LAN, WAN, MAN e WLAN
-Topologias de rede
-Comunicação entre dispositivos
-Protocolos e Modelos
-TCP/IP
-Modelo OSI
-HTTP / HTTPS
-FTP
-SSH
-DNS
-DHCP
-Endereçamento
+Introdução à infraestrutura e servidores
+Explicações sobre protocolos e comunicação de rede
+Respostas didáticas com exemplos práticos
+🖧 Conteúdos Abordados
+TCP/IP e Modelo OSI
 IPv4 e IPv6
-Máscara de sub-rede
-Gateway
-DNS
-Infraestrutura
-Roteadores
+DNS, DHCP e Gateway
+Roteadores, Switches e Wi-Fi
+Segurança básica de redes
+Diagnóstico de conectividade
 
-Infraestrutura de TI
+Tecnologias
+
+NotebookLM
+Inteligência Artificial Generativa
+Fundamentos de Redes
+
 Objetivo
 
-Fornecer uma base sólida para estudantes e iniciantes em redes de computadores, ajudando no entendimento de conceitos técnicos através de explicações claras e exemplos práticos.
-
-Aplicações
-Estudos acadêmicos
-Treinamento técnico
-Introdução à administração de redes
-Apoio para laboratórios e servidores locais
-Revisão para certificações de TI
-
+Facilitar o aprendizado de redes de computadores de forma acessível e aplicada ao ambiente corporativo e de servidores.
